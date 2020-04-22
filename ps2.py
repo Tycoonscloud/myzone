@@ -1,2 +1,2 @@
 
-prin
+print (Hello world)
