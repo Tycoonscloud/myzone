@@ -1,2 +1,2 @@
-a="Hello world 8 jan"
+Hello world 8 jan
 print(b)
